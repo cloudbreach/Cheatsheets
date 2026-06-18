@@ -2,7 +2,7 @@
   <img src="https://cloudbreach.io/_next/image?q=75&url=%2FCloudBreach_logo.png&w=3840" alt="CloudBreach" width="420">
 </p>
 
-# Offensive Azure Cheatsheet
+# Offensive Azure Security Cheatsheet
 
 A methodology-ordered reference for offensive testing of Microsoft Azure and Microsoft 365 / Entra ID environments. Commands are grouped by the engagement stage they belong to: **Recon → Initial Access → Authentication & Tokens → Enumeration → Privilege Escalation → Lateral Movement → Data Exfiltration → Persistence**.
 
